@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: majorProject.Fonter1
+Class-Path: itextpdf-5.4.0.jar bcprov-ext-jdk15on-1.47.jar jsapi.jar sound.jar freetts-jsapi10.jar en_us.jar ocvolume.jar cmulex.jar cmu_us_kal.jar cmutimelex.jar cmu_time_awb.jar freetts.jar
+Name: majorProject/
+Sealed: true
+
+
